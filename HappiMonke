@@ -1,0 +1,83 @@
+{
+    "manifest": {
+        "author": "jal_edm",
+        "version": "1.0.2",
+        "name": "Jalurple"
+    },
+    "background": {
+        "blur_radius": 0,
+        "overlay_alpha": 0,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1040696109640728589\/1151736493581271051\/ezgif-4-bb4746dc21.gif"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/DiosDonutSlave\/Jalurple\/raw\/b77d88e3105e440574c02953842a0d7a6e4ee6b9\/gg%20sans%20Medium.ttf"
+    },
+    "simple_colors": {
+        "accent": -4022574,
+        "background": -1221717957,
+        "background_secondary": 1092291107,
+        "mention_highlight": -481613460,
+        "active_channel": -9699169,
+        "statusbar": -398327712,
+        "input_background": -614784906,
+        "blocked_bg": -346349450
+    },
+    "colors": {
+        "brand": -8257373,
+        "brand_500": -5701425,
+        "brand_600": -1874001824,
+        "brand_new": -1605566368,
+        "flexInputIconColor": -1440219084,
+        "link": -10026753,
+        "link_light": -11824171,
+        "material_grey_50": -1644826,
+        "primary_dark_660": -364904355,
+        "uikit_btn_bg_color_selector_background_accent_light": -1,
+        "uikit_btn_bg_color_selector_green": -6479149,
+        "uikit_btn_bg_color_selector_red": -8110684,
+        "uikit_btn_bg_color_selector_secondary_dark": -5407038,
+        "uikit_btn_bg_color_selector_secondary_light": -1620049781,
+        "uikit_btn_compound_color_selector_light": -5351996,
+        "chat_input_button_tint_colors_dark": -7667510,
+        "primary_dark_300": -6662451,
+        "primary_dark_100": -767418542,
+        "primary_dark_200": -66305,
+        "primary_dark_360": -5407038,
+        "primary_dark_400": -8110684,
+        "uikit_settings_item_text_color_dark": -4022574,
+        "uikit_settings_item_text_color_light": -8110684,
+        "abc_tint_switch_track": -1367065180,
+        "uikit_btn_compound_color_selector_dark": -6791757,
+        "primary_600": -10805130,
+        "brand_new_230": -8110684,
+        "brand_new_560": -8110684,
+        "primary_dark_800": -366084029,
+        "primary_700_alpha_60": -8110684,
+        "dim_foreground_material_light": -10805130,
+        "white_500": -66561,
+        "primary_dark_630": -551679450,
+        "status_grey_200": -1990657,
+        "primary_light_660": -10805130,
+        "uikit_btn_bg_color_selector_brand": -6791757,
+        "primary_700": -531421593,
+        "primary_300": -9161328
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -8482671,
+        "drawable_overlay_channels_selected_dark": -8110684,
+        "drawable_overlay_channels_active_dark": -8110684,
+        "ic_channel_announcements": -12443822,
+        "ic_channel_announcements_16dp": -13036470,
+        "ic_channel_text": -10805130,
+        "ic_status_dnd_16dp": -1212249,
+        "ic_status_idle_16dp": -12416,
+        "ic_status_online_16dp": -2588417,
+        "ic_status_streaming_16dp": -7151444,
+        "ic_status_invisible_16dp": -11769738,
+        "design_bottom_navigation_item_background": -13036470,
+        "abc_action_bar_item_background_material": -5635849,
+        "drawable_voice_indicator_speaking": -5407038,
+        "gradient_transparent_colorbackgroundsecondary": -10805130
+    },
+    "raws": {}
+}
